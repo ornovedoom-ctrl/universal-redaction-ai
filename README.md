@@ -1,4 +1,4 @@
-# Universe Redaction Tool 🛡️
+# Universe Redaction Tool 
 
 > **Next-Generation Intelligent Data Loss Prevention (DLP) System**
 
@@ -10,13 +10,13 @@
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 **Access the application here:** [https://genuine-sopapillas-530bd0.netlify.app/](https://genuine-sopapillas-530bd0.netlify.app/)
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 -   **Intelligent Entity Detection**: Identifies 8+ types of PII including Names, IPs, Emails, Credit Cards, and Locations using LLM reasoning.
 -   **Dual Redaction Modes**:
@@ -33,7 +33,7 @@
 
 ---
 
-## 🏗️ Architecture & Workflow
+##  Architecture & Workflow
 
 The system follows a modern client-side architecture where the frontend handles logic, state management, and visualization, while the Gemini API serves as the intelligence engine.
 
@@ -58,7 +58,7 @@ graph TD
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 /
@@ -82,7 +82,7 @@ graph TD
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 -   **Frontend Framework**: React 19 (Hooks, Context API)
 -   **Language**: TypeScript (Strict typing for robustness)
@@ -95,7 +95,7 @@ graph TD
 
 ---
 
-## 🔧 Setup & Installation
+##  Setup & Installation
 
 To run this project locally:
 
@@ -123,7 +123,7 @@ To run this project locally:
 
 ---
 
-## 🎯 Evaluation Methodology
+##  Evaluation Methodology
 
 The system's accuracy is measured using a modified **Levenshtein Distance** algorithm.
 

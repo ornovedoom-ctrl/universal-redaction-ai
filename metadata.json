@@ -1,0 +1,5 @@
+{
+  "name": "Universe Redaction Tool",
+  "description": "Next-gen intelligent text redaction powered by Gemini 2.5.",
+  "requestFramePermissions": []
+}
